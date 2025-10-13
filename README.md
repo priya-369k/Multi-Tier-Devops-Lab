@@ -51,3 +51,8 @@ vagrant up
 - Add CI/CD pipeline (GitHub Actions)
 - Integrate monitoring (Prometheus/Grafana)
 - Secure with SSL/TLS and secrets management
+
+<img width="940" height="598" alt="image" src="https://github.com/user-attachments/assets/a71b0008-48d5-45ad-bee0-1c5b60ed2c6d" />
+
+
+
