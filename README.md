@@ -31,7 +31,7 @@ Multi-tier Java web application stack for DevOps practice using Vagrant, Virtual
 Install VirtualBox, Vagrant, Git Bash (Windows), and a text editor
 
 # Clone the repo
-git clone https://github.com/<your-username>/vprofile-local-stack-setup.git
+git clone https://github.com/priya-369k/vprofile-local-stack-setup.git
 cd vprofile-local-stack-setup/vagrant
 
 # Start the stack
