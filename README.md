@@ -1,4 +1,4 @@
-# vprofile-local-stack-setup
+# Multi-Tier-Devops-Lab
 Multi-tier Java web application stack for DevOps practice using Vagrant, VirtualBox, and shell provisioning.
 
 ## 🚀 Tech Stack
